@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<parameter name="deviceName" value="Android" />
+	<test name="Test">
+
+		<groups>
+			<run>
+				<include name="Run" />
+			</run>
+		</groups>
+
+		<classes>
+			<class name="com.android.ScrollTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

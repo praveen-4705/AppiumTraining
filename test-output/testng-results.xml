@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="182472" started-at="2017-04-04T16:15:52Z" finished-at="2017-04-04T16:18:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="182472" started-at="2017-04-04T16:15:52Z" finished-at="2017-04-04T16:18:54Z">
+      <class name="com.iosScripts.iOSAppLaunch">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.iosScripts.iOSAppLaunch@3327bd23]" name="beforeMethod" is-config="true" duration-ms="149011" started-at="2017-04-04T21:45:52Z" finished-at="2017-04-04T21:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="iOSAppLaunch2()[pri:0, instance:com.iosScripts.iOSAppLaunch@3327bd23]" name="iOSAppLaunch2" duration-ms="17447" started-at="2017-04-04T21:48:21Z" finished-at="2017-04-04T21:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSAppLaunch2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.iosScripts.iOSAppLaunch@3327bd23]" name="afterMethod" is-config="true" duration-ms="15991" started-at="2017-04-04T21:48:38Z" finished-at="2017-04-04T21:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.iosScripts.iOSAppLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

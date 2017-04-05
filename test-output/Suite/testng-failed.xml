@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="deviceName" value="Android"/>
+  <test name="Test(failed)">
+    <groups>
+      <run>
+        <include name="Run"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.android.ScrollTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="scroll"/>
+        </methods>
+      </class> <!-- com.android.ScrollTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
